@@ -1,6 +1,12 @@
 # Context-Enriched Figure Indexing for Scientific Multi-Modal RAG: An Industry Case Study at Scale
 
 
+
+## Paper–Code Mapping
+
+See [EXPERIMENTS.md](EXPERIMENTS.md) for a detailed mapping between the paper's experiments and the corresponding code locations.
+
+
 ## Main Features
 
 - **Enhanced Figure Captioning**: Based on existing textual contexts, generate detailed and retrieval-optimized figure captions.
@@ -16,9 +22,6 @@
 
 
 
-## Paper–Code Mapping
-
-See [EXPERIMENTS.md](EXPERIMENTS.md) for a detailed mapping between the paper's experiments and the corresponding code locations.
 
 ## Usage
 
